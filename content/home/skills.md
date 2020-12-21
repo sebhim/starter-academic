@@ -19,14 +19,14 @@ feature:
 - description: 90%
   icon: Lighthouse-Studio
   icon_pack: custom
-  name: R
+  name: Survey design (Lighthouse studio)
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+  icon: STATA16_icon
+  icon_pack: custom
+  name: Stata
 - description: 10%
-  icon: camera-retro
-  icon_pack: fas
+  icon: R
+  icon_pack: custom
   name: Photography
 
 # Uncomment to use emoji icons.
