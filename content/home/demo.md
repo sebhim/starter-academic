@@ -50,29 +50,27 @@ subtitle = ""
  css_class = ""
 +++
 
-t
-t
 
-t
-t
+.
 
-t
+.
 
-t
+.
 
-t
+.
 
-t
+.
 
-t
+.
 
-t
-t
+.
 
-t
+.
 
-t
+.
 
-t
+.
 
-t
+.
+
+.
