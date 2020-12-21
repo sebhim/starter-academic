@@ -6,14 +6,16 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Jannis Stöckel
+- Job van Exel
+- Werner Brouwer
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,16 +25,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *SOEPpapers*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Cost-utility analysis compares the monetary cost of health interventions to the associ-ated  health  consequences  expressed  using  quality-adjusted  life  years  (QALYs).   At  whichthreshold the ratio of both is still acceptable is a highly contested issue.  Obtaining societalvaluations of the monetary value of a QALY can help in setting such threshold values but itremains methodologically challenging.  A recent study applied the well-being valuation ap-proach to calculate such a monetary value using a compensating income variation approach.We explore the feasibility of this approach in a different context, using large-scale panel datafrom Germany.  We investigate several important empirical and conceptual challenges suchas the appropriate functional specification of income and the health state dependence of con-sumption utility.  The estimated monetary values range frome20,000-60,000 with certainspecifications leading to considerable deviations, underlining persistent practical challengeswhen applying the well-being valuation methodology to QALYs.  Recommendations for fu-ture applications are formulated.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper we attempted to estimate a monetary value of a QALY for Germany based on data from the SOEP panel using the well-being valuation approach. 
 
 tags: []
 
@@ -76,12 +78,4 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Data and code will be made available shortly.
