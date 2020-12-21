@@ -28,6 +28,10 @@ feature:
   icon: R
   icon_pack: custom
   name: Photography
+- description: 100%
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
