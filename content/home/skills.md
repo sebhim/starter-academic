@@ -16,26 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Survey design
   icon: Lighthouse-Studio
   icon_pack: custom
-  name: Survey design (Lighthouse studio)
-- description: 100%
+  name: Lighthouse studio
+- description: Statistical Software
   icon: STATA16_icon
   icon_pack: custom
   name: Stata
-- description: 10%
+- description: Statistical Software
   icon: R
   icon_pack: custom
   name: R and RStudio
-- description: 100%
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics & Econometrics
-- description: 100%
+- description: 
   icon: datavis
   icon_pack: custom
   name: Data visualisation
+- description: 
+  icon: ngene
+  icon_pack: custom
+  name: Discrete choice modelling
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
