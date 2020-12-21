@@ -41,5 +41,3 @@ design:
 Quickly discover relevant content by [filtering publications](./publication/).
 {{% /callout %}}
 
-
-{{< cite page="/publication/preprint" view="4" >}}
