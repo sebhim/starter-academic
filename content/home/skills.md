@@ -27,11 +27,15 @@ feature:
 - description: 10%
   icon: R
   icon_pack: custom
-  name: Photography
+  name: R and RStudio
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Statistics & Econometrics
+- description: 100%
+  icon: datavis
+  icon_pack: custom
+  name: Data visualisation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
