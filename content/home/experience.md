@@ -32,16 +32,16 @@ experience:
 
 
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+  - title: Research Associate
+    company: WifOR GmbH
+    company_url: 'https://www.wifor.com/en/'
+    location: Darmstadt, Germany
+    date_start: '2016-07-01'
+    date_end: '2017-08-31'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Estmatiing productivity effects of pharmaceuticals
+        * Adaptation and creation of decision models
+        * Drafting research reports and publications
 ---
