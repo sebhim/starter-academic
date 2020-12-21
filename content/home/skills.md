@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: R_logo
+  icon: Lighthouse-Studio
   icon_pack: custom
   name: R
 - description: 100%
