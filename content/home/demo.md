@@ -49,11 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-
-
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
-
-Test2
-
-Test4
