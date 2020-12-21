@@ -39,7 +39,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Health economic modelling
-        * Adaptation and generation of decision models
+        * Estmatiing productivity effects of pharmaceuticals
+        * Adaptation and creation of decision models
         * Drafting research reports and publications
 ---
