@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sebastian Himmler
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,30 +10,27 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Erasmus School of Health Policy & Management
+  url: https://www.eur.nl/en/eshpm/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Health and well-being
+- Applied health economics and health econometrics
+- Health preference research
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Health Economics
+    institution: University of Bayreuth, University of North Carolina at Chapel Hill
+    year: 2016
+  - course: B.Sc. in Health Economics
+    institution: University of Bayreuth
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,15 +43,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.de/citations?hl=en&user=zaMdKR0AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/sebhim
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/sebastianhimmler/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +67,9 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a health economics PhD candidate at the Erasmus School of Health Policy & Management in Rotterdam and hold a master degree in health economics (University of Bayreuth), and undertook research visits to the United States (UNC Chapel Hill) and Denmark (SDU Odense). I am also part of a European PhD training network (“Improving Quality of Care in Europe”: https://www.iqce.uni-hamburg.de/), and receive fundeding through a Marie-Curie fellowship, awarded by the European Commission. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my doctorate, I am applying economic and statistical tools, including applied econometrics, health economic modelling, and discrete choice experiments, to conduct research on topics surrounding tools to inform the efficient allocation of health care resources. This especially includes eliciting preferences on the importance of different (health-related) quality of life dimensions and obtaining societal monetary valuations of health and well-being gains. Further research interests include the measurement of well-being, fair pricing of pharmaceuticals, and patient and provider preferences in mental health care. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
