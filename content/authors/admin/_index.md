@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a health economics PhD candidate at the Erasmus School of Health Policy & Management in Rotterdam and hold a master degree in health economics (University of Bayreuth and UNC Chapel Hill). I am also part of a European PhD training network (“Improving Quality of Care in Europe”: https://www.iqce.uni-hamburg.de/), and am funded through a Marie-Curie fellowship, awarded by the European Commission. 
+I am a health economics PhD candidate at the Erasmus School of Health Policy & Management in Rotterdam and hold a master degree in health economics (University of Bayreuth and UNC Chapel Hill). I am also part of a European PhD training network [Improving Quality of Care in Europe](https://www.iqce.uni-hamburg.de/), and am funded through a Marie-Curie fellowship, awarded by the European Commission. 
 
 In my doctorate, I am applying economic and statistical tools, including applied econometrics, health economic modelling, and discrete choice experiments, to conduct research on topics surrounding tools to inform the efficient allocation of health care resources. This especially includes eliciting preferences on the importance of different (health-related) quality of life dimensions and obtaining societal monetary valuations of health and well-being gains. Further research interests  include the measurement of well-being, fair pricing of pharmaceuticals, and patient and provider preferences in mental health care. 
 
