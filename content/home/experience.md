@@ -28,7 +28,7 @@ experience:
     location: Rotterdam, The Netherlands
     date_start: '2017-09-01'
     date_end: ''
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Pursuing PhD on 'The societal value of health and well-being gain', supervised by Job van Exel and Werner Brouwer.
 
 
         
