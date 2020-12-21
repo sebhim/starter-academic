@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: 90%
   icon: R_logo
-  icon_pack: fab
+  icon_pack: custom
   name: R
 - description: 100%
   icon: chart-line
