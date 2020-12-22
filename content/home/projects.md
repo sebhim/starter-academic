@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: PhD project
+    tag: PhD project
   - name: Other
     tag: Demo
 
