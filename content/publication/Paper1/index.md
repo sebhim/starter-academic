@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-04-01T00:00:00Z"
-doi: "https://doi-org.eur.idm.oclc.org/10.1177/0272989X20923015"
+doi: "10.1177/0272989X20923015"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
