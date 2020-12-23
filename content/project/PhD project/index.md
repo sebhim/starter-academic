@@ -2,7 +2,7 @@
 title: PhD project
 summary: My PhD project intitally aimed at estimating the societal value of health and well-being gains.
 tags:
-- PhD project
+- Current projects
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
