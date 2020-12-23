@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: Current projects
     tag: Current projects
-  - name: Past projects
-    tag: Past projects
+  - name: Previous projects
+    tag: Previous projects
+  - name: Research ideas and possible future projects
+    tag: Project ideas
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
