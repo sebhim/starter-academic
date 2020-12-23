@@ -29,10 +29,11 @@ content:
     tag: '*'
   - name: Current projects
     tag: Current projects
-  - name: Previous projects
-    tag: Previous projects
   - name: Project ideas
     tag: Project ideas
+  - name: Previous projects
+    tag: Previous projects
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
