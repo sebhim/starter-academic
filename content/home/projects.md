@@ -31,7 +31,7 @@ content:
     tag: Current projects
   - name: Previous projects
     tag: Previous projects
-  - name: Research ideas and possible future projects
+  - name: Project ideas
     tag: Project ideas
 
 design:
