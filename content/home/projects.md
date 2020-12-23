@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Ongoing projects
-    tag: Ongoing projects
+  - name: Current projects
+    tag: Current projects
   - name: Past projects
     tag: Past projects
 
