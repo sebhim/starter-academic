@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: PhD project
-    tag: PhD project
-  - name: Other
-    tag: Demo
+  - name: Ongoing projects
+    tag: Ongoing projects
+  - name: Past projects
+    tag: Past projects
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
