@@ -62,8 +62,6 @@ social:
 
 
 
-{{% staticref "files/resume.pdf" "newtab" %}}Download resume{{% /staticref %}}
-
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -77,4 +75,4 @@ I am a health economics PhD candidate at the Erasmus School of Health Policy & M
 In my doctorate, I am applying economic and statistical tools, including applied econometrics, health economic modelling, and discrete choice experiments, to conduct research on topics surrounding tools to inform the efficient allocation of health care resources. This especially includes eliciting preferences on the importance of different (health-related) quality of life dimensions and obtaining societal monetary valuations of health and well-being gains. Further research interests  include the measurement of well-being, fair pricing of pharmaceuticals, and patient and provider preferences in mental health care. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
