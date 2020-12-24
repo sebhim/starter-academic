@@ -59,8 +59,9 @@ social:
 # - icon: cv
 #  icon_pack: ai
   # link: media/resume.pdf
-  {{% staticref "files/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+# {{% staticref "files/resume.pdf" "newtab" %}}Download my CV{{% /staticref %}}
 
+{{% staticref "files/example.pdf" "newtab" %}}Download master thesis{{% /staticref %}}
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
