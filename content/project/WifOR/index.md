@@ -29,14 +29,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-Initial description of the PhD topic:
+Health Economic research at [WifOR Institute](https://www.wifor.com/en/startseite-en/)
 
-The monetary value of health and wellbeing gains remains understudied. We will develop and 
-use methods, explicitly aimed to produce societal monetary values of health and well-being 
-gains. Therefore, we aim to develop a framework for measuring quality of care in monetary 
-terms. Such values also include equity considerations. There may be differences in weighting 
-gains for men vs. women, elderly versus young or severely versus mildly ill beneficiaries. The 
-developed methods may be used in future studies, and results may inform decision makers 
-throughout Europe.
+-Working in and leading of research projects measuring the societal impact of different innovations on productivityby adopting and developing health economic models, creating population models and establishing a link between clinical outcomes and productivity 
+-Performing societal benefit-cost analysisand accounting for uncertainty throughprobabilistic sensitivity analysis
+-Conducting a burden of disease analysis fortype 2 diabetes in Germany and developing an appropriate disease and population model
 
 
