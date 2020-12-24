@@ -29,9 +29,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-Health Economic research at [WifOR Institute](https://www.wifor.com/en/startseite-en/)
 
-Comment:
+
+**Context & Comment:
 
 **Conducted tasks and projects:**
 
