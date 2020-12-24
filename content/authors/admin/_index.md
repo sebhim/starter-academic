@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
   icon_pack: ai
- link: media/files/resume.pdf
+ link: static/files/resume.pdf
 
 
 
