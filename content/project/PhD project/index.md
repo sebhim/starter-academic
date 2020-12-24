@@ -12,11 +12,11 @@ external_link: ""
 #  caption: Photo by rawpixel on Unsplash
 # focal_point: Smart
 
-links:
-- icon: internet-explorer
-  icon_pack: fab
-  name: Website of umbrella project and funder
-  url: https://www.iqce.uni-hamburg.de/
+# links:
+# - icon: internet-explorer
+#  icon_pack: fab
+#  name: Website of umbrella project and funder
+#  url: https://www.iqce.uni-hamburg.de/
 url_code: ""
 url_pdf: ""
 url_slides: ""
