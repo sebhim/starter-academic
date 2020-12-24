@@ -15,8 +15,8 @@ external_link: ""
 # links:
 # - icon: internet-explorer
 #  icon_pack: fab
-#  name: Website of umbrella project and funder
-#  url: https://www.iqce.uni-hamburg.de/
+#  name: 
+#  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
