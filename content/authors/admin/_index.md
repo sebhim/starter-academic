@@ -60,7 +60,10 @@ social:
 #  icon_pack: ai
 # link: files/resume.pdf
 
-{{% staticref "files/example.pdf" "newtab" %}}Download master thesis{{% /staticref %}}
+
+
+{{% staticref "files/resume.pdf" "newtab" %}}Download resume{{% /staticref %}}
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
