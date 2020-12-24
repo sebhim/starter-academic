@@ -51,3 +51,5 @@ hospitalizations due to the DRG introduction. However, several limitations, main
 attributed to the used data, have to be considered when interpreting the results. The
 depiction of these limitations and a subsumption of the results in a broader context
 complete this paper.
+
+{{% staticref "files/example.pdf" "newtab" %}}Download master thesis{{% /staticref %}}
