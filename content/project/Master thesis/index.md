@@ -1,5 +1,5 @@
 ---
-title: Master thesis
+title: Does the introduction of a prospective payment system influence the length of stay in hospitals? A quantitative analysis using aggregated data from Germany
 summary: In my master thesis project, I examined whether the introduction of a prospective payment system (DRG) influenced the average lenght of stay in German hospitals. As I had to use state aggregate data (finding funding for data acquisition was difficult for a master thesis), the analysis has several limitations. OVerall, it appears that the DRG introduction did not considerably affect the lenght of stay.   
 tags:
 - Previous projects
