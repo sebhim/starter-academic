@@ -1,6 +1,6 @@
 ---
 title: PhD project
-summary: My PhD project intitally aimed at estimating the societal value of health and well-being gains.
+summary: My PhD project intitally aimed at estimating the societal value of health and well-being gains. This is one of 15 health economics PhD topics, which are part of a European network of six universities and funded by the European Comission [IQCE](https://www.iqce.uni-hamburg.de/).
 tags:
 - Current projects
 date: "2016-04-27T00:00:00Z"
