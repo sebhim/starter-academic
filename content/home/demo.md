@@ -59,10 +59,5 @@ Many people may feel unease when reading about Health "Economics" in general, th
 </div>
 
 <center><font size="2">Alan Williams (1992). Cost-effectiveness analysis : is it ethical? Journal of Medical Ethics, 18, 7-11.</font></center>
-
-
-
-.
-
-.
+ <br><br><br>
 
