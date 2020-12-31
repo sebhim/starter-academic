@@ -58,6 +58,9 @@ subtitle = ""
 
 <center><font size="8">**Test** </font></center>
 
+<center><font size="8"><b>Test</b></font></center>
+
+
 .
 
 .
