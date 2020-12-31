@@ -56,4 +56,4 @@ attributed to the used data, have to be considered when interpreting the results
 depiction of these limitations and a subsumption of the results in a broader context
 complete this paper.
 
-{{< icon name="download" pack="fas" >}} Download my {{% staticref "files/example.pdf" "newtab" %}}master thesis{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} Download my {{% staticref "files/Master_thesis_Sebastian_Himmler.pdf" "newtab" %}}master thesis{{% /staticref %}}
