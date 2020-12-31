@@ -50,9 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-<center><font size="8"><b>"Anyone who says that no account should be paid to costs [in medical practice] is really saying that no account should be paid to the sacrifices imposed on others. I cannot see on what <i>ethical<i/> grounds you can ignore the adverse consequences of your actions on other people."</b></font></center>
+<div style="line-height: 2em;"><center><font size="6"><b>"Anyone who says that no account should be paid to costs [in medical practice] is really saying that no account should be paid to the sacrifices imposed on others. I cannot see on what <i>ethical</i> grounds you can ignore the adverse consequences of your actions on other people."</b></font></center>
+</div>
 
-<center><font size="3">Alan Williams (1992). Cost-effectiveness analysis : is it ethical ? Journal of Medical Ethics, 18, 7-11.</font></center>
+<center><font size="2">Alan Williams (1992). Cost-effectiveness analysis : is it ethical ? Journal of Medical Ethics, 18, 7-11.</font></center>
 
 
 
