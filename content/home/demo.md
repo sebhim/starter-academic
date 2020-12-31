@@ -51,10 +51,12 @@ subtitle = ""
 +++
 
 
-Test 
+**Test** 
 
-<span style="color:blue">some *blue* text</span>.
+<font size="3"> <span style="color:blue">some **blue** text</span></font>
 .
+
+your text 
 
 .
 
