@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+<br><br>
 <div style="line-height: 2em;"><font size="6">
 Many people may feel unease when reading about Health "Economics" in general, the comparison of health outcomes to costs, or defining how much a certain health gain should cost. However, 'costs' to an economist means what will have to be sacrificed by others (such sacrifices are given unless one believes in unlimited resources).
 </font
@@ -61,10 +61,6 @@ Many people may feel unease when reading about Health "Economics" in general, th
 <center><font size="2">Alan Williams (1992). Cost-effectiveness analysis : is it ethical? Journal of Medical Ethics, 18, 7-11.</font></center>
 
 
-
-.
-
-.
 
 .
 
