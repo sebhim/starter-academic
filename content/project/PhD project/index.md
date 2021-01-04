@@ -29,7 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #   slides: example
 ---
-**Initial description of the PhD topic:
+**Initial description of the PhD topic:**
 
 The monetary value of health and wellbeing gains remains understudied. We will develop and 
 use methods, explicitly aimed to produce societal monetary values of health and well-being 
