@@ -67,7 +67,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- PhD project
+- Projects as research associate at WifOR Institute (previous employer)
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
