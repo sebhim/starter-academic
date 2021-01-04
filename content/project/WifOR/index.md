@@ -1,5 +1,5 @@
 ---
-title: Research associate at WifOR Institute (previous employer)
+title: Projects as research associate at WifOR Institute (previous employer)
 summary: In my first position after graduating, I worked as a research associate at [WifOR Institute](https://www.wifor.com/en/startseite-en/). The main projects in my time at WifOR revolved around building models to estimate the societal value of pharmaceutical innovations. 
 tags:
 - Previous projects
@@ -31,15 +31,11 @@ url_video: ""
 ---
 
 
-**Context & Comment:
-My work  [WifOR Institute](https://www.wifor.com/en/startseite-en/)
+**Context of main projects:**
+[WifOR](https://www.wifor.com/en/startseite-en/) is a research institute and Thinktank, specialised in in quantifying societal/economic impacts of industries (e.g. health care). During my time at WifOR, we developed an approach and models to quantify societal/economic impacts of single pharmaceutical products in different disease areas (see publications below). The  approach relates to the concept and literature of estimating productivity costs/effects in economic evaluations, as described for example [here](https://www-sciencedirect-com.eur.idm.oclc.org/science/article/pii/S0277953612005539), but goes further by including unpaid work and multiplier effects, providing more holistic estimates of impacts on societal welfare. 
 
-**Conducted tasks and projects:**
+Such calculations are useful as they expand the information basis on which health authorities can make reimbursement decision on pharmaceutical products. While the health impact of products should, in general, always be the main driver of such decisions, other societal effects and consequences (like costs) should also be considered. 
 
--Working in and leading of research projects measuring the societal impact of different innovations on productivityby adopting and developing health economic models, creating population models and establishing a link between clinical outcomes and productivity 
-
--Performing societal benefit-cost analysisand accounting for uncertainty throughprobabilistic sensitivity analysis
-
--Conducting a burden of disease analysis fortype 2 diabetes in Germany and developing an appropriate disease and population model
+The nature of the respective projects was different to my PhD project, as they were contracted research (also disclosed in the respective publications). While we were able to work on the projects independently, the time constraints that come with contracted research (in contrast to my PhD research at least) did not allow us to explore certain issues of the approach (e.g equity and ethical impliciations or the positioning within the current German reimbursment rationale). The type of health economic models we built always come with many assumptions and uncertainties. In hindsight, nevertheless, I wouldn't make any major changes. However, I would never try to build and estimate such complex models again in Microsoft Excel...    
 
 
