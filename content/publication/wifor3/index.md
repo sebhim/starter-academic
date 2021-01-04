@@ -18,7 +18,7 @@ authors:
 # - "Equal contribution"
 
 date: "2020-1-01T00:00:00Z"
-doi: "10.1080/14737167.2019.1644169"
+doi: "10.2217/cer-2020-0131"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
