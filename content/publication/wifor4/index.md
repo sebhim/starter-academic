@@ -31,7 +31,7 @@ publication: In *Journal of comparative effectiveness research*
 # publication_short: In *ICW*
 Abstract: This study estimates the societal benefits of using biologics like secukinumab (SEC) instead of nons- teroidal anti-inflammatory drugs for treating patients with ankylosing spondylitis in Germany. A Markov and a population model were used to predict the functional impairment of German ankylosing spondylitis patients using SEC or nonsteroidal anti-inflammatory drugs. This was translated into avoided productivity losses, which were valued according to gross value added. The productivity impairment of SEC users was predicted to decrease by 20 percentage points, corresponding to 12.8 and 32.7 million hours in paid and unpaid work and a monetary value of €1.6 billion from 2016 to 2030. Accounting for economic spillover effects increases the societal value to € 3.3 billion. The improvements in functional impairment due to biologics could lead to sizable productivity effects.
 # Summary. An optional shortened abstract.
-summary: This study quantifies the productivity gains associated with the use of obinutuzumab in follicular lymphoma patients, including gains in paid work and in unpaid work
+summary: In this project, we quantified the societal economic impact of the use of a novel biologic treatment for ankolysing spondylitis in Germany.
 tags: []
 
 # Display this page in the Featured widget?
