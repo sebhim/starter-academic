@@ -40,9 +40,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/Sebastian_Him
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.de/citations?hl=en&user=zaMdKR0AAAAJ
