@@ -1,15 +1,13 @@
 ---
-title: "What works better for preference elicitation among older people? Cognitive burden of discrete choice experiment and case 2 best-worst scaling in an online setting"
+title: "Preferences for e-Mental Health Interventions in Germany: A Discrete Choice Experiment"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Elena A. Phillips
 - admin
-- Vikas Soekhai
-- Job van Exel
-- Werner Brouwer
-
+- Jonas Schreyögg
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
