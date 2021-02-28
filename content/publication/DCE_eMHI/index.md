@@ -13,8 +13,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-11-01T00:00:00Z"
-doi: "10.1016/j.jocm.2020.100265"
+date: "2021-01-01T00:00:00Z"
+doi: "10.1016/j.jval.2020.09.018"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -26,11 +26,11 @@ doi: "10.1016/j.jocm.2020.100265"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Choice Modelling*
-# publication_short: In *ICW*
-Abstract: To appropriately weight dimensions of quality of life instruments for health economic evalua- tions, population and patient preferences need to be elicited. Two commonly used elicitation methods for this purpose are discrete choice experiments (DCE) and case 2 best-worst scaling (BWS). These methods differ in terms of their cognitive burden, which is especially relevant when eliciting preferences among older people. Using a randomised experiment with respondents from an online panel, this paper examines the cognitive burden associated with colour-coded and level overlapped DCE, colour-coded BWS, and ‘standard’ BWS choice tasks in a complex health state valuation setting. Our sample included 469 individuals aged 65 and above. Based on both revealed and stated cognitive burden, we found that the DCE tasks were less cognitively burdensome than case 2 BWS. Colour coding case 2 BWS cannot be recommended as its effect on cognitive burden was less clear and the colour coding lead to undesired choice heuristics. Our results have implications for future health state valuations of complex quality of life instruments and at least serve as an example of assessing cognitive burden associated with different types of choice experiments.
+publication: In *Value in health*
+# publication_short: In *ViH*
+Abstract: Objectives: Recent evidence suggests that e-mental health interventions can be effective at improving mental health but that there is still a notable hesitation among patients to use them. Previous research has revealed that they are perceived by patients as being less helpful than face-to-face psychotherapy. The reasons for this unfavorable perception are, however, not yet well understood. The aim of our study was to address this question by eliciting preferences for individual components of e-mental health interventions in a discrete choice experiment. Methods: Using a stepwise qualitative approach, we developed the following 5 attributes of eMHIs: introductory training, human contact, peer support, proven effectiveness, content delivery, and price. Additionally, we asked questions about re- spondents’ demographics, attitudes, and previous experience of traditional psychotherapy, as well as their distress level. Results: A total of 1984 respondents completed the survey. Using mixed logit models, we found that personal contact with a psychotherapist in blended care, proven effectiveness, and low price were highly valued by participants. Participants were indifferent toward the mode of content delivery but showed a slight preference for introductory training via phone, as well as for peer support via online forum alongside coach-led group meetings on site. Discussion: Our results suggest a clear preference for blended care that includes face-to-face contact with a psychotherapist. This preference remained stable irrespective of sociodemographics, previous experience of psychotherapy, distress level, and the 2 context scenarios used in our discrete choice experiment. Further investigations looking at the potential benefits and risks of blended care are needed.
 # Summary. An optional shortened abstract.
-summary: As a pre-study for generating population weights for a nine-dimensional well-being instrument among the eldery, we examined which type of choice experiment is less cognitively burdensome to survey respondents.
+summary: Electronic health interventions especially for mental health may more and more provide valuable treatment possibilities. This paper attempted to measure preferences in the general German population and mental health users towards different attributes of potential electronic heath interventions, finding that blended care formats (i.e. a combination in-person and electronic means) would be most preferred.
 tags: []
 
 # Display this page in the Featured widget?
