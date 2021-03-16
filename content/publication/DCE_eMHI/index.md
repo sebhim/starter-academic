@@ -72,6 +72,6 @@ projects:
 # slides: example
 ---
 
-Data and code will be made available shortly.
-
+Data and code are publicly available through the open science framework:
+https://osf.io/af2rw/
 
