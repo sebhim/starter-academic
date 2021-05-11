@@ -75,5 +75,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-Data and code will be made available shortly.
+The code for the full analysis and the creation of the analysis data set are available at the open science framework including further instructions: https://osf.io/b8nsz/
