@@ -74,4 +74,5 @@ projects:
 # slides: example
 ---
 
-Data and code will be made available shortly.
+Data and code are available through the open science framework:
+https://osf.io/2wtve/
