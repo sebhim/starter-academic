@@ -1,11 +1,14 @@
 ---
-title: "Did the COVID-19 pandemic change the willingness to pay for an early warning system for infectious diseases in Europe?"
+title: "Estimating an anchored utility tariff for the well-being of older people measure (WOOP) for the Netherlands"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Marcel Jonker
+- Frédérique van Krugten
+- Mariska Hackert
 - Job van Exel
 - Werner Brouwer
 
@@ -14,8 +17,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-07-01T00:00:00Z"
-doi: "10.1007/s10198-021-01353-6"
+date: "2022-03-17T00:00:00Z"
+doi: "10.1016/j.socscimed.2022.114901"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -29,10 +32,10 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: In *The European Journal of Health Economics*
 # publication_short: In *ICW*
-Abstract: The COVID-19 pandemic highlights the need for effective infectious disease outbreak prevention. This could entail installing an integrated, international early warning system, aiming to contain and mitigate infectious diseases outbreaks. The amount of resources governments should spend on such preventive measures can be informed by the value citizens attach to such a system. This was already recognized in 2018, when a contingent valuation willingness to pay (WTP) experiment was fielded, eliciting the WTP for such a system in six European countries. We replicated that experiment in the spring of 2020 to test whether and how WTP had changed during an actual pandemic (COVID-19), taking into account differences in infection rates and stringency of measures by government between countries. Overall, we found significant increases in WTP between the two time points, with mean WTP for an early warning system increasing by about 50% (median 30%), from around €20 to €30 per month. However, there were marked differences between countries and subpopulations, and changes were only partially explained by COVID-19 burden. We discuss possible explanations for and implication of our findings.
+Abstract: 
 
 # Summary. An optional shortened abstract.
-summary: This paper tries to answer the question on how much European citizens would be willing to pay for an early warning system for infectious diseases and how this changed with the COVID-19 pandemic.
+summary: This paper reports on a DCE developed to create a utility tariff for the WOOP well-being measure.
 tags: []
 
 # Display this page in the Featured widget?
@@ -75,4 +78,4 @@ projects:
 ---
 
 Data and code are available through the open science framework:
-https://osf.io/2wtve/
+https://osf.io/ysajr/
